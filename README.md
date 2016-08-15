@@ -10,6 +10,7 @@
 [Django](#django)
 
 [Flask](#flask)
+
 [爬虫](#spider)
 
 [互联网基础](#internet)
@@ -34,9 +35,14 @@
 
 ###<A NAME="spider">爬虫</a>
 ***
+
 * [知乎专栏：一起学习python网络爬虫](https://zhuanlan.zhihu.com/gooseeker)
 
 需要有一定的python爬虫知识才能看得懂。
+
+* [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+
+
 ###<A NAME="internet">互联网基础</a>
 ***
 * [协议森林](https://read.douban.com/column/1788114/)
