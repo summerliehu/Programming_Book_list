@@ -31,9 +31,14 @@
 ### <A NAME="django">Django</a>
 ***
 
+* [Django 基础教程（自强学堂）](http://www.ziqiangxuetang.com/django/django-tutorial.html)
+
+自强学堂是个综合学习各种编程语言、互联网知识的网站，而且质量很高。它提供的Django基础教程很有特色，可以看出作者是耗费了好多心血的。教程内容注重细节，而且帮你指明了好多吭……同时提供有PDF版的教程下载，方便离线阅读。适合初学者使用。
+
 * [Django搭建简易博客教程](http://www.jianshu.com/p/d15188a74104)
 
 来自简书的比较全面的Django教程。
+
 
 ### <A NAME="flask">Flask</a>
 ***
