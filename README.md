@@ -29,6 +29,16 @@
 
 这本书内容比较老（似乎还停留在python2.5的时代？），错误也不少，但是仍然不失为一本python入门的经典教材。内容上比某《python基础教程》要详实的多，对原理上的讲解也颇为深入。需要注意，本书第三版与第二版没有传承关系，内容截然不同（但是仍然值得一看），但是不要为了看到最新的第二版的内容去买第三版……虽然老，但是很靠谱！
 
+* [A Byte of Python](http://python.swaroopch.com/)
+
+"A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.1
+
+
+* [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+
+《简明 Python 教程》为 "A Byte of Python" 的唯一指定简体中文译本，版权 © 2005 沈洁元
+
+
 
 ### <A NAME="django">Django</a>
 ***
@@ -69,6 +79,13 @@
 
 ### <A NAME="internet">互联网基础</a>
 ***
+
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+
+“配合《Growth: 全栈增长工程师实战》效果最佳。
+
+依据在《Repractise简介篇：Web开发的七天里》中所说的 Web 开发的七个步骤而展开的电子书。当然它也是一个 APP，它是一本关于如何成为全栈增长工程师的指南。”
+
 
 * [协议森林（免费在线阅读）](https://read.douban.com/column/1788114/)
 
