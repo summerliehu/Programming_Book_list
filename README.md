@@ -27,7 +27,7 @@
 
 * Python核心编程（第二版）（需付费）
 
-这本书内容比较老（似乎还停留在python2.5的时代？），错误也不少，但是仍然不失为一本python入门的经典教材。内容上比某《python基础教程》要详实的多，对原理上的讲解也颇为深入。需要注意，本书第三版与第二版没有传承关系，内容截然不同（但是仍然值得一看），但是不要为了看到最新的第二版的内容去买第三版……虽然老，但是很靠谱！
+这本书内容比较老（似乎还停留在python2.5的时代？），错误也不少，但是仍然不失为一本python入门的经典教材，建议购买，然后花上几个星期时间仔细琢磨。内容上比某《python基础教程》(这本书不推荐)要详实的多，对原理上的讲解也颇为深入。需要注意，本书第三版与第二版没有传承关系，内容截然不同（但是仍然值得一看），但是不要为了看到最新的第二版的内容去买第三版……虽然老，但是很靠谱！
 
 * [A Byte of Python](http://python.swaroopch.com/)
 
@@ -38,7 +38,9 @@
 
 《简明 Python 教程》为 "A Byte of Python" 的唯一指定简体中文译本，版权 © 2005 沈洁元
 
+* [深入 Python :Dive Into Python 中文版](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/index.html)
 
+比较全面，适合新手学习的python入门教程。[这是英文原版的连接](http://www.diveintopython.net/)。
 
 ### <A NAME="django">Django</a>
 ***
