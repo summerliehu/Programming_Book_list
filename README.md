@@ -1,6 +1,6 @@
 ##编程入门书单
 ***
-我是个python初学者，在学习的过程中收集了一些非常有用的博客和电子书，希望能够分享给大家。这个页面的主要受众也应该是初学者，内容主要是python，还包括一些网络编程和其它的基础知识。
+学习的过程中收集了一些非常有用的博客和电子书，希望能够分享给大家。这个页面的主要受众应该是初学者，书单的内容主要是python方面的，此外还包括一些网络编程和其它的基础知识。
 
 ### 书单目录
 ***
@@ -40,7 +40,7 @@
 
 * [深入 Python :Dive Into Python 中文版](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/index.html)
 
-比较全面，适合新手学习的python入门教程。[这是英文原版的连接](http://www.diveintopython.net/)。
+比较全面，适合新手学习的python入门教程。[这是英文原版的连接](http://www.diveintopython.net/)。我认为这本书最大的缺点就是……啊，它太老了。2005年的版本，那个时候python还是2.几来着？不过听说 *Dive into python* 有Python 3的版本了，[戳这里去看](http://www.diveintopython3.net/)。
 
 ### <A NAME="django">Django</a>
 ***
@@ -59,7 +59,7 @@
 
 * Flask Web开发基于Python的Web应用开发实战（需付费）
 
-不可多得的好书！跟着这本书仔细看，用心看，入门完全没问题。
+不可多得的好书！跟着这本书仔细看，用心看，入门完全没问题。这本书看透了，那么一个人搞个网站论坛什么的绝对不成问题。
 
 * 深入理解Flask（需付费）
 
